@@ -1,7 +1,4 @@
-import React from 'react'
 import { render } from '@testing-library/react'
-import '@testing-library/jest-dom'
-import 'jest-extended'
 import Calendar from './Calendar'
 
 describe('<Calendar />', () => {
