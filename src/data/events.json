@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Larry's Bday",
+    "date": "04-12-2022",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.",
+    "type": "birthday"
+  },
+  {
+    "name": "Timmy's Birthday",
+    "date": "04-12-2022",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.",
+    "type": "birthday"
+  },
+  {
+    "name": "Tammy's Anniversary",
+    "date": "04-14-2022",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.",
+    "type": "anniversary"
+  },
+  {
+    "name": "Jimbo's Reunion",
+    "date": "04-16-2022",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.",
+    "type": "reunion"
+  },
+  {
+    "name": "Bank Holiday",
+    "date": "04-18-2022",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.",
+    "type": "holiday"
+  },
+  {
+    "name": "Ski Trip",
+    "date": "04-03-2022",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.",
+    "type": "vacation"
+  }
+]
